@@ -1,8 +1,8 @@
 # SilverLight-tutorial
 Silverlight is a Microsoft old technology https://www.microsoft.com/silverlight/
 
-:a deprecated  free browser plug-in for developing web/mobile app 	,mostly used for video/graphic capabilities
-    :parts{
+## a deprecated  free browser plug-in for developing web/mobile app, mostly used for video/graphic capabilities
+### parts{
         1. Silverlight Plug-in			  		   : is the engine that renders the Silverlight application in the browser
             :Parts{
                 The Presentation Engine with Multi Core support
